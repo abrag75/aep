@@ -24,7 +24,7 @@ Pengalaman Kerja Saya :
 |:--------|:------------|:-------|
 | **Carlita TV** | **2012** | **Magang** |
 |**Innoware** | **2013** | **Operator Produksi** |
-|**Kominfo Banten** (https://diskominfo.bantenprov.go.id/ "Situs Kominfo")| **2018**| **Magang** |
+|[**Kominfo Banten**](https://diskominfo.bantenprov.go.id/ "Situs Kominfo")| **2018**| **Magang** |
 |[**PT Mess Sejahtra**](https://www.berlcosmetics.com/ "Berl Cosmetics")| **2019**| **Programer Web**|
 
 Sedikit mengenai Biodata Saya :
